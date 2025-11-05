@@ -1,0 +1,44 @@
+.lol{
+        width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.wma{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.navbar{
+    background-color: #AFC968;
+    display: flex;
+}
+.navbar li {
+    list-style: none;
+    color: white;
+    flex-grow: 1;
+}
+.navbar ul{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+.navbar img {
+    width: 150;
+}
+.cards {
+    background-color: cyan;
+    width: 200px;
+    height: 100px;
+        margin: 15px;
+}
+
+.card-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
